@@ -1,0 +1,35 @@
+{
+    "chestPain": {
+        "0": "Typical Angina",
+        "1": "Atypical Angina",
+        "2": "Non-anginal Pain",
+        "3": "Asymptomatic"
+    },
+    "fastingBloodSugar": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "restingECG": {
+        "0": "Normal",
+        "1": "Having ST-T Wave Abnormality",
+        "2": "Left Ventricular Hyperthrophy"
+    },
+    "exerciseInducedAngina": {
+        "1": "Yes",
+        "0": "No"
+    },
+    "peakExerciseSTSegment": {
+        "0": "Upsloping",
+        "1": "Flat",
+        "2": "Downsloping"
+    },
+    "thalassemia": {
+        "1": "Normal",
+        "2": "Fixed Defect",
+        "3": "Reversible Defect"
+    },
+    "gender": {
+        "1": "Male",
+        "0": "Female"
+    }
+}
